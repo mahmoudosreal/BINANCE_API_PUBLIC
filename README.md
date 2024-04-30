@@ -32,7 +32,7 @@ This guide will walk you through setting up a Node.js project that interacts wit
 
 5. **Running the project**:
     ```bash
-    node [your-js-file].js
+    node index.js
     ```
 
    This will execute the functions defined in your JavaScript file, making a trade based on the current price of the cryptocurrency.
